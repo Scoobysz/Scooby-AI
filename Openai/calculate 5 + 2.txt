@@ -1,0 +1,4 @@
+OpenAI response for prompt: calculate using AI calculate 5 + 2 
+*******************
+
+7

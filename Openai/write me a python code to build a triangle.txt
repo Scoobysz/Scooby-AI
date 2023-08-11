@@ -1,0 +1,11 @@
+OpenAI response for prompt: using AI write me a python code to build a triangle 
+*******************
+
+#This code will build a triangle with the specified side length
+
+side_length = 10
+
+for i in range(side_length):
+    for j in range(i):
+        print("*", end = "")
+    print()

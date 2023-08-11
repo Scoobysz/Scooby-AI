@@ -1,0 +1,4 @@
+OpenAI response for prompt: using AI calculate 6 + 2 
+*******************
+
+8
